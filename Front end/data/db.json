@@ -1,0 +1,48 @@
+{"data":
+  {
+    "data": [
+      {
+          "id": "65b7c1f12ef1f71f641cec32",
+          "material": "Steel recycled",
+          "EIgrade": 0.2,
+          "co2eq": 0.5,
+          "density": 7850
+      },
+      {
+          "id": "65b7c2242ef1f71f641cec33",
+          "material": "Steel for reuse",
+          "EIgrade": 0.1,
+          "co2eq": 0.63,
+          "density": 7850
+      },
+      {
+          "id": "65b7c24b2ef1f71f641cec34",
+          "material": "Steel from reuse",
+          "EIgrade": 0.5,
+          "co2eq": 0.33,
+          "density": 7850
+      },
+      {
+          "id": "65b7c27a2ef1f71f641cec35",
+          "material": "Steel",
+          "EIgrade": 0.1,
+          "co2eq": 1.05,
+          "density": 7850
+      },
+      {
+          "id": "65b7c2c22ef1f71f641cec37",
+          "material": "Concrete",
+          "EIgrade": 0.8,
+          "co2eq": 0.135,
+          "density": 2500
+      },
+      {
+          "id": "65b8f311193e9b451752695e",
+          "material": "Concrete recycled",
+          "EIgrade": 0.8,
+          "co2eq": 0.134,
+          "density": 2500
+      }
+    ]
+  }
+}
